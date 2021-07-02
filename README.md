@@ -3,4 +3,4 @@ A React-based project, which fetches the data from API and shows stock photos ac
 
 ## VISIT ME : https://photos-stock.netlify.app/
 
-![Screenshot1(./assets/Screenshot.png)
+![Screenshot1](./assets/Screenshot.png)
